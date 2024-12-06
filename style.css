@@ -184,7 +184,7 @@ body {
   height: 150px;
   border-radius: 25px;
   margin-left: 50px;
-  background-color: rgb(255, 255, 255);
+  background-color: rgb(194, 13, 13);
   text-align: center;
   box-shadow: 0 0 10px black;
   margin-bottom: 14px;
@@ -244,7 +244,7 @@ h3 {
   margin-top: 300px;
 }
 .red-bord {
-  background-color: rgb(61, 60, 45);
+  background-color: rgb(61, 58, 11);
 }
 .orange {
   background-color: orange;
